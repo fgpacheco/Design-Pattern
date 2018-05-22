@@ -14,6 +14,5 @@ public class FactoryPessoa {
 			default:
 				return null;
 		}
-	}
-	
+	}	
 }
