@@ -9,7 +9,8 @@ public abstract class Pessoa {
 		return nome;
 	}
 	public void setNome(String nome) {
-		this.nome = "Felipe";
+		this.nome = nome;
+		//set
 	}
 	public char getSexo() {
 		return sexo;
